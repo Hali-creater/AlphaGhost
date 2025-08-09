@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+requests
+# Add other dependencies as needed
