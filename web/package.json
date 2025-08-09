@@ -1,0 +1,13 @@
+{
+  "name": "trading-agent-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "next": "^11.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
